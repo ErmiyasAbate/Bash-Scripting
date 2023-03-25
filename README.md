@@ -3,7 +3,7 @@
 BASH is an acronym for Bourne Again Shell, a punning name, which is a tribute to Bourne Shell (i.e., invented by Steven Bourne).
 
 <p align="center">
-    <img src="https://cdn.facesofopensource.com/wp-content/uploads/2016/04/23070639/faces.SteveBourne17960.web_.jpg" width=250>
+    <img src="https://cdn.facesofopensource.com/wp-content/uploads/2016/04/23070639/faces.SteveBourne17960.web_.jpg" width=300>
 </p>
 
 <p align="center">Steven Bourne</p>
